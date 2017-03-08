@@ -522,6 +522,3 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['sess_driver'];
-$config['sess_save_path'] = 'ci_sessions';
-
